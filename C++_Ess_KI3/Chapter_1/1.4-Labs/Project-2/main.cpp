@@ -11,9 +11,9 @@ cout << "Enter value for x: ";
 cin >> x;
 
 xpi = x * x / (pi * pi);
-xpl = x * x + 1/2;
-xmi = x * x - 1/2;
-y = xpi / xpl * (1 + xpi / (xmi * xmi));
+xpl = x * x + 1./2;
+xmi = x * x - 1./2;
+y = xpi / xpl * (1. + xpi / (xmi * xmi));
 // put your code here
 
 cout << "y = " << y;
