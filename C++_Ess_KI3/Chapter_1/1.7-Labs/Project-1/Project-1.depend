@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507899435 source:/home/mokii/Documents/Practice_DBNI/C++_Ess/C++_Ess_KI3/Chapter_1/1.7-Labs/Project-1/main.cpp
+	<iostream>
+	<iomanip>
+
