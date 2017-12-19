@@ -30,6 +30,6 @@ k += k / j;
 k = k * k *k;
 // increment k by i times j
 k += i * j;
-cout << k;
+cout << k << endl;
 return 0;
 }
